@@ -155,7 +155,7 @@ also add answers with examples
     Act as a professional blogger, create a blog post about impact of mobile video games on kids in 500 words
 
 # Prompt framework
-![Prompt Engineering](https://github.com/shivanayakd/prompt-engineering-chatgpt/blob/main/Images/prompt-framework.png?raw=true)
+![Prompt Engineering](https://github.com/shivanayakd/prompt-engineering-chatgpt/blob/main/Images/prompt_framework.png?raw=true)
 
 ###
     Role                 :  Imagine that you are a Web developer
